@@ -15,3 +15,7 @@ First go to the google developer console and create a new project, add the youtu
 You can find all the different options for your query here.
 
 [https://developers.google.com/youtube/v3/docs/search/list](https://developers.google.com/youtube/v3/docs/search/list)
+
+### Code for embedding a youtube iframe into your webpage
+
+    <iframe id="video" width="960" height="600" src="//www.youtube.com/embed/en2D_5TzXCA?rel=0" frameborder="0" allowfullscreen></iframe>
